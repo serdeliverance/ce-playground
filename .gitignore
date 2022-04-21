@@ -1,0 +1,10 @@
+.DS_Store
+target/
+.bloop/
+.vscode/
+.metals/
+metals.sbt
+.idea
+.bsp/
+logs/
+CHALLENGE.md
